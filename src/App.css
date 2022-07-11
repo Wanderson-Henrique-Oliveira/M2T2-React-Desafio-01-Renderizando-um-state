@@ -36,7 +36,7 @@
 .container h4{
     font-family: 'Mulish';
     font-size: 20px;
-    margin-bottom: 1rem;
+    margin: 1rem auto;
 }
 .container ol{
     width: fit-content;
